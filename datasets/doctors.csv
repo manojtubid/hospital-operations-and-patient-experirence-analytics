@@ -1,0 +1,61 @@
+doctor_id,doctor_name,department_id,doctor_level,experience_years
+1,Rohan Sharma,12,Senior Consultant,10
+2,Ananya Singh,12,Junior Consultant,20
+3,Nisha Verma,10,Specialist,5
+4,Aarav Verma,4,Consultant,18
+5,Varun Sharma,9,Consultant,20
+6,Nisha Kapoor,4,Specialist,18
+7,Meera Iyer,1,Consultant,20
+8,Karan Rao,5,Consultant,10
+9,Neha Verma,2,Specialist,5
+10,Priya Das,6,Senior Consultant,25
+11,Vihaan Joshi,8,Junior Consultant,15
+12,Aditya Patel,5,Senior Consultant,18
+13,Ishita Joshi,2,Junior Consultant,20
+14,Ananya Iyer,5,Junior Consultant,25
+15,Ananya Das,2,Specialist,12
+16,Sana Khan,6,Consultant,12
+17,Priya Gupta,11,Senior Consultant,20
+18,Aditya Bhat,11,Consultant,18
+19,Ananya Singh,8,Specialist,12
+20,Nisha Gupta,11,Senior Consultant,25
+21,Vihaan Gupta,1,Senior Consultant,15
+22,  VARUN SHARMA ,4,Senior Consultant,10
+23,Ira Kapoor,11,Specialist,10
+24,Meera Singh,4,Senior Consultant,20
+25,Aditi Kapoor,10,Specialist,12
+26,Ananya Singh,9,Specialist,5
+27,Vihaan Das,2,Consultant,20
+28,Arjun Iyer,11,Specialist,18
+29,Aditya Kapoor,7,Specialist,18
+30,Meera Patel,1,Junior Consultant,20
+31,Nisha Iyer,5,Senior Consultant,5
+32,Diya Kapoor,3,Specialist,5
+33,Meera Patel,3,Junior Consultant,25
+34,Diya Das,11,Consultant,10
+35,Priya Iyer,3,Junior Consultant,18
+36,Neha Malhotra,1,Junior Consultant,12
+37,Diya Gupta,1,Consultant,18
+38,Aditya Verma,12,Specialist,25
+39,Aditya Iyer,9,Consultant,10
+40,Ira Patel,3,Senior Consultant,18
+41,Varun Kapoor,4,Consultant,20
+42,Diya Kapoor,11,Senior Consultant,15
+43,Dev Malhotra,2,Consultant,10
+44,Aditya Rao,1,Consultant,18
+45,Ananya Sharma,2,Junior Consultant,10
+46,Aditya Chopra,1,Senior Consultant,5
+47,Dev Gupta,5,Specialist,10
+48,Nisha Singh,12,Specialist,10
+49,Ira Iyer,7,Consultant,5
+50,Rohan Khan,7,Senior Consultant,15
+51,Karan Malhotra,12,Junior Consultant,20
+52,Rohan Sharma,7,Senior Consultant,25
+53,Rohan Gupta,4,Consultant,18
+54,Sana Singh,7,Consultant,12
+55,Sana Gupta,2,Specialist,25
+56,Nisha Verma,1,Junior Consultant,5
+57,Ananya Singh,7,Specialist,15
+58,Ishita Das,7,Junior Consultant,10
+59,Rahul Sharma,7,Senior Consultant,25
+60,Sana Mehta,7,Specialist,10
